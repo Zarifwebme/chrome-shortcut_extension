@@ -16,4 +16,5 @@ A simple and visually appealing Chrome extension that allows you to create short
    ```sh
    git clone https://github.com/Zarifwebme/Shortcut_Extension.git
    cd Shortcut_Extension
-
+   
+![Example](shortcut.png)
